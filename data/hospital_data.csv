@@ -1,0 +1,5 @@
+patient_id,department,wait_time_minutes,readmission_flag,billing_amount
+1001,Emergency,45,0,1200
+1002,Cardiology,30,1,3400
+1003,Orthopedics,20,0,2200
+1004,Emergency,60,1,1800
